@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://imgbbb.com/images/2020/08/20/Vanilla-1s-286px14958fcc48cc51c2.gif"/><img src="https://imgbbb.com/images/2020/08/20/developer_breath5556925351e9b5f1.gif"/></h1>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><h3> Hey, nice to see you.</h3>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><h3>Hey, nice to see you.</h3>
 <h5>Welcome to my page! </br> I'm salah, Native Android developer from <b>Cairo, Egypt</b></h5>
 
 - 🔭 I’m currently working on ...
