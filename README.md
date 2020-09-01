@@ -23,7 +23,7 @@
  <a href="https://www.linkedin.com/in/salah-samy512">
          <img alt="Logo" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png"
          width="50" height="50">
-      </a><a href="salahsamy512@gmail.com">
+      </a><a href="mailto: abc@example.com">
          <img alt="Logo" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png"
          width="50" height="50">
       </a>
